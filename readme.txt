@@ -6,3 +6,4 @@ add a useless string
 add text on branch
 add text on both master and dev branch
 add text on dev branch again
+git push origin dev from dev
